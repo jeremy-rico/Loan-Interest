@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    cout << "Loan v2.0";
+    
     float loanTot, newTot, loanLength, annualInterest, dailyInterest;
     cout << "Please input the following information:" << endl;
     cout << "Total loan amount: ";
